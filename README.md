@@ -12,3 +12,5 @@ never stop
 
 
 until you go public!
+
+IS this the second change on Nov 29, 2018?!
